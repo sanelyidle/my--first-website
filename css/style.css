@@ -53,3 +53,7 @@ img {
 h1 {
     text-align: center;
 }
+
+.clearfix {
+    clear: both;
+}
